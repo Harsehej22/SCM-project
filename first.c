@@ -17,7 +17,8 @@ for(i =0; i<(sizeof(a)/sizeof(a[0]));i++){
 }
 for(i=0;i<(sizeof(a)/sizeof(a[0]));i++){
    int  b=a[i]+b;
-
+//this is c file
+   
 }
 printf("%d",b);
     return 0;
