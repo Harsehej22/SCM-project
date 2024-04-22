@@ -18,6 +18,7 @@ int main(){
     //sum of two numbers
     int q;
     int w;
+    //hy my name is sehej
      printf("\nenter a value :");
     scanf("%d",&w);
         printf("enter a value :");
